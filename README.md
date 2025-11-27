@@ -1,4 +1,4 @@
-# HR Analytics – Attrition Report (Power BI)
+# HR Analytics
 
 **Project Overview**
 
