@@ -1,4 +1,6 @@
 # HR Analytics
+<img width="1214" height="689" alt="image" src="https://github.com/user-attachments/assets/278c14d2-2eae-436b-ac84-5a4ecf3a208f" />
+
 
 **Project Overview**
 
